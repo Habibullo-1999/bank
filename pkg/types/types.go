@@ -10,6 +10,7 @@ type Category string
 //Status ...
 type Status string
 
+//Status ...
 const (
 	StatusOk Status = "OK"
 	StatusFail Status = "FAIL"
