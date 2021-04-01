@@ -1,3 +1,3 @@
-module github.com/Habibullo-1999/types/v2
+module github.com/Habibullo-1999/bank/v2
 
 go 1.16
